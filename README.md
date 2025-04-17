@@ -1,8 +1,8 @@
 # Wildfire Damage Prediction
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 A machine learning solution that predicts potential damage to infrastructure, equipment, or properties based on various factors.
+
+Created by: Rheka Narwastu & Katrina Suherman
 
 ## Overview
 
