@@ -1,1 +1,1 @@
-# damage-prediction
+# WildfireDamagePrediction
